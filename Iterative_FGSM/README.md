@@ -31,3 +31,13 @@ X_adv_N+1 = X_adv_N + alpha * sign( ∇xJ(XadvN , ytru))
 
 Thus we are iteratively updating the image .
 
+```
+@misc{kurakin2017adversarial,
+      title={Adversarial Machine Learning at Scale}, 
+      author={Alexey Kurakin and Ian Goodfellow and Samy Bengio},
+      year={2017},
+      eprint={1611.01236},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
